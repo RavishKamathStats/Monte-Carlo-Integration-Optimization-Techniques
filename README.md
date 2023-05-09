@@ -16,5 +16,6 @@ We take a look at Basic Uniform, Non-Uniform Distribution and Simmulated Anneali
 - Plots
 - Mapping the movement of the Simmulated Annealing arguement Max
 - Box Plots
+- Contour Plots
 
 I would like to thank Professor Hannah Jankowski for teaching all these methods to complete this project. 
